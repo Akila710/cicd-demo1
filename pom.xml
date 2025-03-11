@@ -38,7 +38,7 @@
 			            <target>Cloudhub-US-East-2</target>
 			            <username>ars_710</username>
 			            <password>710@Anypoint</password>
-			            <muleVersion>${mule.maven.plugin.version}</muleVersion>
+			            <muleVersion>4.7.0</muleVersion>
 			            <applicationName>${project.artifactId}</applicationName>
 			            <releaseChannel>NONE</releaseChannel>
 			            <replicas>1</replicas>
