@@ -36,7 +36,6 @@
 			            <provider>MC</provider>
 			            <environment>Sandbox</environment>
 			            <target>Cloudhub-US-East-2</target>
-			            <server>cred</server>
 			            <username>ars_710</username>
 			            <password>710@Anypoint</password>
 			            <muleVersion>${mule.maven.plugin.version}</muleVersion>
