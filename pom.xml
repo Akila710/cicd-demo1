@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<app.runtime>4.9.2</app.runtime>
-		<mule.maven.plugin.version>4.2.0</mule.maven.plugin.version>
+		<mule.maven.plugin.version>4.3.0</mule.maven.plugin.version>
 	</properties>
 
 	<build>
@@ -37,7 +37,7 @@
 			            <target>Cloudhub-US-East-2</target>
 			            <username>ars_710</username>
 			            <password>710@Anypoint</password>
-			            <muleVersion>3.9.6</muleVersion>
+			            <muleVersion>4.9.2</muleVersion>
 			            <applicationName>${project.artifactId}</applicationName>
 			            <releaseChannel>NONE</releaseChannel>
 			            <replicas>1</replicas>
